@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mpp_interview/assets/plants.dart';
+import 'package:mpp_interview/plants.dart';
 import 'package:mpp_interview/styles.dart';
 
 void main() {
