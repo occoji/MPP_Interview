@@ -1,7 +1,10 @@
 # mpp_interview
 
-<img src="/screen3" alt="Screenshot to reproduce in Flutter"/>
+<img src="/screen3.png" alt="Screenshot to reproduce in Flutter"/>
 Livecoding - Reproduire le screenshot 3
+
+<img src="/result.png" alt="ResultP3XL"/>
+Résultat sur un pixel 3A XL
 
 ## 2021-12-11 MAJ
 Fichiers
